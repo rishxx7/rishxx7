@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishxx7
+- 👋 Hi, I’m Rishabh
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning web development
 
